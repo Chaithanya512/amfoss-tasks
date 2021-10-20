@@ -1,0 +1,1 @@
+Well,the task was a bit easy. ```man page``` helps a lot to do this task. Though i didnt remember every command used in solving the task, I got exposed to different **COMMANDS**.
