@@ -1,1 +1,1 @@
-hi there 
+Fortunately, I didn't encounter any error while installing ubuntu alongside windows 10. The only problem was with the boot order, I didn't know that i have to change the boot order inorder to see the boot into ```ubuntu``` option after restarting. Later on, one of the mentors told me to change boot order. Anyway i blogged about my journey [here](https://dev.to/chaithanya512/how-to-install-ubuntu-alongside-windows-10-pd0)
