@@ -1,1 +1,1 @@
-Completed ```page 1``` succesfully. When clicking ```next```, it will direct to page 2.  
+I didn't do it in the correct way, basically I used copy-paste to get the code and implemented the buttons for page1 and I missed backdrop for page1. After started thinking about page2, I was clueless on what to do next. Thus, I didn't complete it.  
