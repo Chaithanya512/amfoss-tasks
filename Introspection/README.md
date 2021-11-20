@@ -1,7 +1,7 @@
 # INTROSPECTION
 ## Why must you choose me?
 
-I think i got to know about the amFoss after my 12th class searching for good engineering colleges on quora. It was really interesting..it is when I decided to join Foss(though no one mentioned about selection process and tasks 😂). During the pandemic, I found myself interested in indulging with my pc and this kinda intrest drove me to choose this club. amFoss is the right place to endevour my skills with joy. Learning new stuff has always been challenging and exciting to me just like now..writing this intro at 11:30 in the night doesn't make me think of time because I am interested and excited in doing this 😇.    
+I think I got to know about the amFoss after my 12th class searching for good engineering colleges on quora. It was really interesting..it is when I decided to join Foss(though no one mentioned about selection process and tasks 😂). During the pandemic, I found myself interested in indulging with my pc and this kinda intrest drove me to choose this club. amFoss is the right place to endevour my skills with joy. Learning new stuff has always been challenging and exciting to me just like now..writing this intro at 11:30 in the night doesn't make me think of time because I am interested and excited in doing this 😇.    
 
 ## My plan for next 6 months!
 
