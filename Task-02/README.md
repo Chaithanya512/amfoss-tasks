@@ -1,1 +1,1 @@
-This task was challenging to me as i encountered many errors. I was keeping several stuff in one directory which made me confuse at the beginning. Later i was advised to clone the repo into a new directory and a give a fresh start. After that it was quite easier than first time.
+This task was challenging to me as I was keeping several stuff in one directory which made me confuse at the beginning. Later I was advised to clone the repo into a new directory and a give a fresh start. After that it was quite easier than first time.
